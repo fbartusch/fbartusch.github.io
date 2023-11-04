@@ -1,0 +1,13 @@
+---
+title: "Automatic generation of provenance metadata during execution of scientific workflows"
+collection: publications
+permalink: /publication/2017-06-13-Automatic_Provenance_metadata
+excerpt: 'Data processing in data intensive scientific fields like bioinformatics is automated to a great extent. Among others, automation is achieved with workflow engines that execute an explicitly stated sequence of computations. Scientists can use these workflows through science gateways or they develop them by their own. In both cases they may have to preprocess their raw data and also may want to further process the workflow output. The scientist has to take care about provenance of the whole data processing pipeline. This is not a trivial task due to the diverse set of computational tools and environments used during the transformation of raw data to the final results. Thus we created a metadata schema to provide provenance for data processing pipelines and implemented a tool that creates this metadata during the execution of typical scientific computations.'
+date: 2018-06-13
+venue: '10th International Workshop on Science Gateways (IWSG 2018)'
+paperurl: 'http://academicpages.github.io/files/papers/Bartusch_Hanussek_Krüger___2018___Automatic_generation_of_provenance_metadata_during_execution_of_scientific_workflows.pdf'
+citation: 'Bartusch, F., Hanussek, M., & Krüger, J. (2018). Automatic generation of provenance metadata during execution of scientific workflows. 10th International Workshop on Science Gateways (IWSG 2018), June, 13-15.'
+---
+Data processing in data intensive scientific fields like bioinformatics is automated to a great extent. Among others, automation is achieved with workflow engines that execute an explicitly stated sequence of computations. Scientists can use these workflows through science gateways or they develop them by their own. In both cases they may have to preprocess their raw data and also may want to further process the workflow output. The scientist has to take care about provenance of the whole data processing pipeline. This is not a trivial task due to the diverse set of computational tools and environments used during the transformation of raw data to the final results. Thus we created a metadata schema to provide provenance for data processing pipelines and implemented a tool that creates this metadata during the execution of typical scientific computations.
+
+[Download paper here](http://academicpages.github.io/files/papers/Bartusch_Hanussek_Krüger___2018___Automatic_generation_of_provenance_metadata_during_execution_of_scientific_workflows.pdf)
